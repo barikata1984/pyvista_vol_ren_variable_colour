@@ -1,0 +1,10 @@
+# data files (large, regenerated)
+**/textures/
+**/_ground_truth_*
+**/ground_truth.csv
+**/original_ground_truth.csv
+**/mass_distr/
+
+# python
+__pycache__/
+*.py[cod]
